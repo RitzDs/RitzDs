@@ -1,4 +1,5 @@
-[![MasterHead](https://github.com/ritzds/RitzDs/blob/main/1.gif)]
+[![MasterHead](https://github.com/ritzds/RitzDs/blob/main/1.gif)](https://ritzchaudhury.io)
+
 <h1 align="center">Hi 👋, I'm Ritz Chaudhury</h1>
 <h3 align="center">An aspiring Data Scientist</h3>
 <img align="right" alt="Coding" width="400" src="https://github.com/ritzds/RitzDs/blob/main/2.gif">
