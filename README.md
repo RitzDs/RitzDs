@@ -1,5 +1,5 @@
 # Ritz Chaudhury
-#### Data Science
+### Data Science
 ![Data Science](https://github.com/RitzDs/RitzDs/blob/main/image.png)
 
 I am Ritz from India and love working with data. I am an aspiring Data Scientist and love diving into data to find solutions. I also enjoy learning new technologies and frameworks like Informatica, Data Stage, Streamlit, Flask, etc...
